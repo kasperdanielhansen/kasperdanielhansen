@@ -1,4 +1,8 @@
-### Hi there 👋
+### Kasper D. Hansen
+
+I am an associate professor in Biostatistics at Johns Hopkins University.
+
+I work on statistical genomics and release most of my work through R/Bioconductor.
 
 <!--
 **kasperdanielhansen/kasperdanielhansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
